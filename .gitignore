@@ -1,0 +1,2 @@
+# the venv should not be sync.
+venv*
